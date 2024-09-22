@@ -29,7 +29,4 @@ Transcation Hash: 0xa844db6718f4ec646e02f8830a698323964e4ec406fa0555bba70da1d742
 For more information, inquiries, or contributions, please reach out to us:
 
 - **Email**: jain.daksh138@gmail.com
-- **GitHub**: [github.com/onlineexamproctoring](https://github.com/onlineexamproctoring)
-- **Twitter**: [@OnlineExamProctoring](https://twitter.com/OnlineExamProctoring)
-
 Join us in our mission to create a secure and fair online examination environment!
